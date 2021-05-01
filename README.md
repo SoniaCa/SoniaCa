@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/SoniaCa/SoniaCa/blob/master/img/IMG_20180819_163509.jpg)
+![Cover](https://github.com/SoniaCa/SoniaCa/blob/master/img/cover2.jpg)
