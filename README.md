@@ -31,5 +31,5 @@ I'm **Sonia Carmon**, Web developer Specialized in **Symfony**
 ## My projects
 
 * [Porfolio](https://github.com/SoniaCa/Portfolio "My porfolio") (Under construction)
-* [JS practice: Todolist](https://github.com/SoniaCa/Todo-JS "Todolist") 
-* [PHP practice: Business card generator](https://github.com/SoniaCa/Profil-Card "Business card generator")
+* [JS practice: Todolist](https://github.com/SoniaCa/Todo-JS "Todolist") (Frontend Mentor exercise)
+* [PHP practice: Business card generator](https://github.com/SoniaCa/Profil-Card "Business card generator") (Frontend Mentor exercise)
