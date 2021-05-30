@@ -28,6 +28,6 @@ I'm **Sonia Carmon**, Web developer Specialized in **Symfony**
 
 
 
-## My project
+## My projects
 
 Under construction 
